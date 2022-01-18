@@ -1,4 +1,4 @@
-#Assignment 3: BINF6410, Lisa Hoeg (1151916)
+#Assignment 3: BINF6410, Lisa Hoeg
 
 import sys
 import os
